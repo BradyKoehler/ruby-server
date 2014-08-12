@@ -1,0 +1,14 @@
+html {
+	background-color: #111111;
+	color: lime;
+}
+
+button {
+	background-color: black;
+	border: ridge darkslategrey 3px;
+	color: lime;
+}
+
+a:visited {
+	color: #00FFFF;
+}
